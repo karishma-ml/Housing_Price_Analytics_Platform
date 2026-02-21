@@ -1,5 +1,5 @@
-## Housing_Price_Analytics_Platform
- # A Dual-Mode Machine Learning & NLP Web Application
+# Housing_Price_Analytics_Platform
+ ## A Dual-Mode Machine Learning & NLP Web Application
  An interactive web application that combines Regression-Based House Price Prediction with an NLTK-powered Chatbot, built using the California Housing Dataset from Scikit-learn.
 
 The application allows users to:
@@ -8,15 +8,15 @@ The application allows users to:
 - Interact with a chatbot for model-related queries
 - Explore NLP transformations in real-time
 
-## Tech Stack
-# Machine Learning
+# Tech Stack
+## Machine Learning
 - Scikit-learn
 - Linear Regression
 - Ridge Regression
 - Lasso Regression
 - StandardScaler
 
-# Natural Language Processing
+## Natural Language Processing
 - NLTK
 - Tokenization
 - Stopword Removal
@@ -24,10 +24,10 @@ The application allows users to:
 - Lemmatization
 - POS Tagging
 
-# Deployment
+## Deployment
 - Streamlit
 
-# Model Persistence
+## Model Persistence
 - Joblib
 
 ## Project Objective
@@ -39,8 +39,8 @@ To build a beginner-friendly yet industry-relevant system that integrates:
 This project demonstrates both Machine Learning modeling and Natural Language Processing integration in a single application.
 
 ## Application Preview 
-![House_Predication][House_Preview.png]
-![House_Predication][House_Predication.png]
+![House_Preview](House_Predication.png) 
+![House_Preview](House_Preview.png)
 
 - This project is developed for educational purposes only.
 - The predictions are based on historical housing data and should not be considered financial advice or real estate valuation guidance.
